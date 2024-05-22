@@ -5,5 +5,5 @@
 
 ## 🚀 Tecnologias
 <div>
-  <img src="https://img.shields.io/badge/JAVA-f89820?style=for-the-badge&logo=java&logoColor=blue">
+  <img src="https://img.shields.io/badge/JAVA-f89820?style=for-the-badge&logo=jdk&logoColor=blue">
 </div>
